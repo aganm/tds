@@ -12,12 +12,8 @@ fi
 
 cd build
 
-export CC=tcc
-#export CC=clang
-#export CXX=clang
-
 cmake .. -G "Ninja" -DCMAKE_BUILD_TYPE=Debug
 
 cmake --build .
 
-./wakeup*
+./tds*
