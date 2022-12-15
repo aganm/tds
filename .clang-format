@@ -1,0 +1,10 @@
+BasedOnStyle: Mozilla
+IndentWidth: 8
+IndentCaseLabels: false
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+AccessModifierOffset: -8
+BinPackParameters: false
+UseTab: Always
+ContinuationIndentWidth: 8
+PointerAlignment: Right
